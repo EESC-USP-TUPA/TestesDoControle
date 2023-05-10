@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "arduino_LoRa/arduino_lora_ping/arduino_lora_ping.ino",
+    "port": "/dev/ttyACM0"
+}
